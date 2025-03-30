@@ -36,6 +36,10 @@
 - gpt2-large: https://huggingface.co/openai-community/gpt2-large
 
 **3. Prepare the Datasets**
+Datasets to [download](https://drive.google.com/drive/folders/1yB-EFuApAOJ0RzTI0VfZ0pignytguU0_?usp=sharing)
+- TripAdvisor Hong Kong
+- Amazon Movies & TV
+- Yelp 2019
 
 ### Training
 The training of RecLLM contains two stages:
