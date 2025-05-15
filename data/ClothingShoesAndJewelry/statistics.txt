@@ -1,0 +1,7 @@
+# of users 38,764
+# of items 22,919
+# of reviews 179,223
+# of features 1,162
+Avg. # of reviews / user 4.62
+Avg. # of reviews / item 7.82
+Avg. # of words / explanation 10.48
