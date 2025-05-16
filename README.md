@@ -21,6 +21,7 @@
     ├── gpt2-small
     ├── gpt2-medium
     ├── gpt2-large
+    ├── llama-2
 ├──logs: logs in training.
 ├──models: save the final model.
 ├──outputs: generated texts by trained models.
@@ -35,6 +36,7 @@
 - gpt2-small: https://huggingface.co/openai-community/gpt2
 - gpt2-medium: https://huggingface.co/openai-community/gpt2-medium
 - gpt2-large: https://huggingface.co/openai-community/gpt2-large
+- llama-2: https://huggingface.co/meta-llama/Llama-2-7b
 
 **3. Prepare the Datasets**
 
