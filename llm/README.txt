@@ -1,0 +1,4 @@
+- gpt2-small: https://huggingface.co/openai-community/gpt2
+- gpt2-medium: https://huggingface.co/openai-community/gpt2-medium
+- gpt2-large: https://huggingface.co/openai-community/gpt2-large
+- llama-2: https://huggingface.co/meta-llama/Llama-2-7b
