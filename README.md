@@ -1,6 +1,6 @@
 # ExpRec
 
-**This repository includes several methods of Explainable Recommendations (ExpRec): **
+**This repository includes several methods of Explainable Recommendations (ExpRec):**
 
 | Model  | Core              | Url                                   |
 | ------ | ----------------- | ------------------------------------- |
